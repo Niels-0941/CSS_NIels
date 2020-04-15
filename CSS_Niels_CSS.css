@@ -1,0 +1,23 @@
+@charset "UTF-8";
+body {
+	background-image: url("../images/BackCSS.png");
+	background-size: cover; 
+	background-repeat: no-repeat;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size: 30pt;
+	color: #F000000;
+	text-align: center; 
+	margin-left: auto;
+	margin-right: auto;
+	width: 20em; 
+}
+
+
+.something {
+
+	background-color: #E41C1F;
+	width: 103px;
+	height: 63px;
+}
+
+ 
